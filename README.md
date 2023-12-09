@@ -46,7 +46,7 @@ pagtapos i type nyo ulit to sa terminal ng project, para ma install yung mga dep
 
   ganon din para sa node.js depencies since gumamit tayo ng tailwind dito
 
-  <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>composer install
+  <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>npm install
 </code></pre><div class="zeroclipboard-container">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="composer require realrashid/sweet-alert" tabindex="0" role="button">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
